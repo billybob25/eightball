@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+function print(message){
+  process.stdout.write(message);
+}
+
+
+print("Banana");
+
+
+
+
